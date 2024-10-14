@@ -1,1 +1,5 @@
 /node_modules
+package-lock.json
+build/contracts/Migrations.json
+build/contracts/Voting.json
+migrations/1728899523_deploy_voting.js
